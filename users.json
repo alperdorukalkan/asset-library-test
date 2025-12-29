@@ -2,22 +2,23 @@
   "Users": [
     {
       "Username": "admin",
-      "PasswordHash": "jGl25bVBBBW96Qi9Te4V37Fnqchz/Eu4qB9vKrRIqRg=",
+      "PasswordHash": "7NcYcNGWMxapfjrDQIyYNa2M8PPBvHA1J8MCZVNPda4=",
       "Role": "Admin",
       "Enabled": true
     },
     {
       "Username": "reviewer",
-      "PasswordHash": "jGl25bVBBBW96Qi9Te4V37Fnqchz/Eu4qB9vKrRIqRg=",
+      "PasswordHash": "7NcYcNGWMxapfjrDQIyYNa2M8PPBvHA1J8MCZVNPda4=",
       "Role": "Reviewer",
       "Enabled": true
     },
     {
       "Username": "user",
-      "PasswordHash": "jGl25bVBBBW96Qi9Te4V37Fnqchz/Eu4qB9vKrRIqRg=",
+      "PasswordHash": "7NcYcNGWMxapfjrDQIyYNa2M8PPBvHA1J8MCZVNPda4=",
       "Role": "User",
       "Enabled": true
     }
   ]
 }
+
 
