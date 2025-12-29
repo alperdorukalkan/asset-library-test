@@ -1,0 +1,23 @@
+{
+  "Users": [
+    {
+      "Username": "admin",
+      "PasswordHash": "jGl25bVBBBW96Qi9Te4V37Fnqchz/Eu4qB9vKrRIqRg=",
+      "Role": "Admin",
+      "Enabled": true
+    },
+    {
+      "Username": "reviewer",
+      "PasswordHash": "jGl25bVBBBW96Qi9Te4V37Fnqchz/Eu4qB9vKrRIqRg=",
+      "Role": "Reviewer",
+      "Enabled": true
+    },
+    {
+      "Username": "user",
+      "PasswordHash": "jGl25bVBBBW96Qi9Te4V37Fnqchz/Eu4qB9vKrRIqRg=",
+      "Role": "User",
+      "Enabled": true
+    }
+  ]
+}
+
