@@ -9,6 +9,16 @@
       ],
       "latestVersion": "1.0.0",
       "status": 2
+    },
+    {
+      "id": "eae97ffb-252f-46ef-8f84-82afd021cc15",
+      "name": "test_pyro 1",
+      "description": "002",
+      "tags": [
+        "3D"
+      ],
+      "latestVersion": "1.0.0",
+      "status": 1
     }
   ]
 }
