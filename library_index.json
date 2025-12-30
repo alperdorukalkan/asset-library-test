@@ -32,6 +32,17 @@
       "latestVersion": "1.0.0",
       "status": 2,
       "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/05ec6e93-62e3-4cbd-9daf-c298c95e0444_thumbnail.png"
+    },
+    {
+      "id": "c3945071-bb6e-4227-840c-09936607036c",
+      "name": "mor",
+      "description": "test1010",
+      "tags": [
+        "Mor"
+      ],
+      "latestVersion": "1.0.0",
+      "status": 1,
+      "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/c3945071-bb6e-4227-840c-09936607036c_thumbnail.png"
     }
   ]
 }
