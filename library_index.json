@@ -1,17 +1,6 @@
 {
   "assets": [
     {
-      "id": "34b09bac-bc8f-445d-9aa9-ffc406769e46",
-      "name": "test_pyro",
-      "description": "test",
-      "tags": [
-        "3D"
-      ],
-      "latestVersion": "1.0.0",
-      "status": 0,
-      "thumbnailUrl": null
-    },
-    {
       "id": "eae97ffb-252f-46ef-8f84-82afd021cc15",
       "name": "test_pyro 1",
       "description": "002",
