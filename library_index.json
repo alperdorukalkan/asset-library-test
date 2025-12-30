@@ -10,17 +10,6 @@
       "latestVersion": "1.0.0",
       "status": 2,
       "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/2b1f0f4c-46f9-4111-bbf5-3d77e0350514_thumbnail.png"
-    },
-    {
-      "id": "0b714e8d-3e71-479f-818c-3e2feb87de72",
-      "name": "sphere",
-      "description": "mavi",
-      "tags": [
-        "mavi"
-      ],
-      "latestVersion": "1.0.0",
-      "status": 2,
-      "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/0b714e8d-3e71-479f-818c-3e2feb87de72_thumbnail.png"
     }
   ]
 }
