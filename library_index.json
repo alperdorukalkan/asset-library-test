@@ -8,6 +8,7 @@
         "Red"
       ],
       "latestVersion": "1.0.0",
+      "availableVersions": [],
       "status": 2,
       "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/2b1f0f4c-46f9-4111-bbf5-3d77e0350514_thumbnail.png"
     },
@@ -19,6 +20,7 @@
         "3D"
       ],
       "latestVersion": "1.0.0",
+      "availableVersions": [],
       "status": 2,
       "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/87dd3e82-741a-4c78-ab45-66fa05035894_thumbnail.png"
     },
@@ -30,6 +32,7 @@
         "green"
       ],
       "latestVersion": "1.0.0",
+      "availableVersions": [],
       "status": 2,
       "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/7becf3d1-1626-4692-a51f-e3c526c5682b_thumbnail.png"
     },
@@ -41,6 +44,7 @@
         "green"
       ],
       "latestVersion": "1.0.0",
+      "availableVersions": [],
       "status": 2,
       "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/f571fec0-4d3b-4ae1-8bb1-0ee645ac0e62_thumbnail.png"
     },
@@ -52,6 +56,7 @@
         "3D"
       ],
       "latestVersion": "1.0.0",
+      "availableVersions": [],
       "status": 2,
       "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/eacc6f21-0778-43cd-8ba2-d45b8d40b8c1_thumbnail.png"
     },
@@ -63,6 +68,7 @@
         "3D"
       ],
       "latestVersion": "1.0.0",
+      "availableVersions": [],
       "status": 2,
       "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/19aa8471-84ce-47f7-a02e-75808d7e5998_thumbnail.png"
     },
@@ -74,6 +80,7 @@
         "dep"
       ],
       "latestVersion": "1.0.0",
+      "availableVersions": [],
       "status": 2,
       "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/9e4eb80c-984d-4d31-9330-ea3e9305167d_thumbnail.png"
     },
@@ -85,6 +92,7 @@
         "3D dep"
       ],
       "latestVersion": "2.0.0",
+      "availableVersions": [],
       "status": 2,
       "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/c8eef56f-8fb5-4011-8c35-e1bd7a935736_thumbnail.png"
     },
@@ -95,9 +103,12 @@
       "tags": [
         "shade"
       ],
-      "latestVersion": "1.0.0",
-      "status": 2,
-      "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/1a08f443-fe92-45e8-8a00-09e613187023_thumbnail.png"
+      "latestVersion": "1.1.0",
+      "availableVersions": [
+        "1.1.0"
+      ],
+      "status": 1,
+      "thumbnailUrl": null
     }
   ]
 }
