@@ -1,0 +1,24 @@
+{
+  "assetId": "1687ae0a-e4c1-4356-8c53-031346b33d96",
+  "version": "1.1.0",
+  "changelog": "ball_mat",
+  "breakingChanges": true,
+  "previousVersion": "1.0.0",
+  "createdBy": "admin",
+  "createdAt": "2026-01-05T14:48:22.84873Z",
+  "status": 1,
+  "fileName": "Cube_Dep_Dshade_1_1_0.unitypackage",
+  "fileSize": 5767570,
+  "reviewedBy": null,
+  "reviewedAt": null,
+  "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/1687ae0a-e4c1-4356-8c53-031346b33d96_1_1_0_thumbnail.png",
+  "requiredDependencies": [
+    "Universal RP (URP)"
+  ],
+  "externalScriptDependencies": [],
+  "externalPackageDependencies": [
+    "Shaders"
+  ],
+  "setupInstructions": "shade",
+  "requiredUnityVersion": null
+}
