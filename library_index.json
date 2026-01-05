@@ -103,13 +103,14 @@
       "tags": [
         "shade"
       ],
-      "latestVersion": "1.1.0",
+      "latestVersion": "1.1.1",
       "availableVersions": [
+        "1.1.1",
         "1.1.0",
         "1.0.0"
       ],
-      "status": 2,
-      "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/1687ae0a-e4c1-4356-8c53-031346b33d96_1_1_0_thumbnail.png"
+      "status": 1,
+      "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/1687ae0a-e4c1-4356-8c53-031346b33d96_1_1_1_thumbnail.png"
     }
   ]
 }
