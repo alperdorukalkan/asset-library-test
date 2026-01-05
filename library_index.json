@@ -87,6 +87,17 @@
       "latestVersion": "2.0.0",
       "status": 2,
       "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/c8eef56f-8fb5-4011-8c35-e1bd7a935736_thumbnail.png"
+    },
+    {
+      "id": "05cfdaa0-9b80-49df-8638-86d721bc51f9",
+      "name": "dshade_cube",
+      "description": "shade",
+      "tags": [
+        "shade"
+      ],
+      "latestVersion": "1.0.0",
+      "status": 1,
+      "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/05cfdaa0-9b80-49df-8638-86d721bc51f9_thumbnail.png"
     }
   ]
 }
