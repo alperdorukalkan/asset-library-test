@@ -65,18 +65,6 @@
       "latestVersion": "1.0.0",
       "status": 2,
       "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/19aa8471-84ce-47f7-a02e-75808d7e5998_thumbnail.png"
-    },
-    {
-      "id": "963b58a2-eb53-42de-8059-55de066c8783",
-      "name": "test_dep_Pack",
-      "description": "test",
-      "tags": [
-        "3D",
-        "dep"
-      ],
-      "latestVersion": "1.0.0",
-      "status": 2,
-      "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/963b58a2-eb53-42de-8059-55de066c8783_thumbnail.png"
     }
   ]
 }
