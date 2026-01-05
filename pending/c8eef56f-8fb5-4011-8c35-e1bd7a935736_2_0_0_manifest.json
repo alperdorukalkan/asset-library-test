@@ -1,0 +1,19 @@
+{
+  "assetId": "c8eef56f-8fb5-4011-8c35-e1bd7a935736",
+  "version": "2.0.0",
+  "changelog": "",
+  "createdBy": "admin",
+  "createdAt": "2026-01-05T08:04:08.4637973Z",
+  "status": 1,
+  "fileName": "red_dep_pack_01_2_0_0.unitypackage",
+  "fileSize": 19275,
+  "reviewedBy": null,
+  "reviewedAt": null,
+  "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/c8eef56f-8fb5-4011-8c35-e1bd7a935736_thumbnail.png",
+  "requiredDependencies": [
+    "Universal RP (URP)"
+  ],
+  "externalScriptDependencies": [
+    "test_package"
+  ]
+}
