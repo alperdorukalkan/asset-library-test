@@ -103,12 +103,13 @@
       "tags": [
         "baruh"
       ],
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.0.1",
       "availableVersions": [
+        "1.0.1",
         "1.0.0"
       ],
-      "status": 2,
-      "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/b5d9a91a-5da1-487f-a943-9db96f3cce23_thumbnail.png"
+      "status": 1,
+      "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/b5d9a91a-5da1-487f-a943-9db96f3cce23_1_0_1_thumbnail.png"
     }
   ]
 }
