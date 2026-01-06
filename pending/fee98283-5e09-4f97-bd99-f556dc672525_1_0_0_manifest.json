@@ -1,0 +1,24 @@
+{
+  "assetId": "fee98283-5e09-4f97-bd99-f556dc672525",
+  "version": "1.0.0",
+  "changelog": "",
+  "breakingChanges": false,
+  "previousVersion": null,
+  "createdBy": "admin",
+  "createdAt": "2026-01-06T13:47:09.2847628Z",
+  "status": 1,
+  "fileName": "Green_1_0_0.unitypackage",
+  "fileSize": 5742391,
+  "reviewedBy": null,
+  "reviewedAt": null,
+  "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/fee98283-5e09-4f97-bd99-f556dc672525_thumbnail.png",
+  "requiredDependencies": [
+    "Universal RP (URP)"
+  ],
+  "externalScriptDependencies": [],
+  "externalPackageDependencies": [
+    "Shaders"
+  ],
+  "setupInstructions": "",
+  "requiredUnityVersion": "6000.2.11f1"
+}
