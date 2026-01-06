@@ -1,3 +1,18 @@
 {
-  "assets": []
+  "assets": [
+    {
+      "id": "eba219ed-e047-4327-8ba3-4d3373361a6e",
+      "name": "PurpleCube",
+      "description": "purple",
+      "tags": [
+        "Cube"
+      ],
+      "latestVersion": "1.0.0",
+      "availableVersions": [
+        "1.0.0"
+      ],
+      "status": 1,
+      "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/eba219ed-e047-4327-8ba3-4d3373361a6e_thumbnail.png"
+    }
+  ]
 }
