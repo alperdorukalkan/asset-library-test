@@ -13,6 +13,20 @@
       ],
       "status": 2,
       "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/eba219ed-e047-4327-8ba3-4d3373361a6e_thumbnail.png"
+    },
+    {
+      "id": "bd49ca29-591d-4136-8015-ec36672f18d0",
+      "name": "GreenCube",
+      "description": "Cube",
+      "tags": [
+        "Cube"
+      ],
+      "latestVersion": "1.0.0",
+      "availableVersions": [
+        "1.0.0"
+      ],
+      "status": 1,
+      "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/bd49ca29-591d-4136-8015-ec36672f18d0_thumbnail.png"
     }
   ]
 }
