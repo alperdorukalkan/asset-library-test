@@ -41,21 +41,6 @@
       ],
       "status": 2,
       "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/e9b057c3-1af2-42e5-916d-d9772add5a77_thumbnail.png"
-    },
-    {
-      "id": "22f734b4-ad6d-4024-b3ae-1450fd3bef7a",
-      "name": "Cube_Dep_Dshade",
-      "description": "v1",
-      "tags": [
-        "shade"
-      ],
-      "latestVersion": "1.1.0",
-      "availableVersions": [
-        "1.1.0",
-        "1.0.0"
-      ],
-      "status": 2,
-      "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/22f734b4-ad6d-4024-b3ae-1450fd3bef7a_1_1_0_thumbnail.png"
     }
   ]
 }
