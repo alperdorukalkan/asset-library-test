@@ -1,16 +1,3 @@
 {
-  "assets": [
-    {
-      "id": "0fcba4be-a285-4f49-99d3-30076f5033fd",
-      "name": "baruh2",
-      "description": "",
-      "tags": [],
-      "latestVersion": "1.0.0",
-      "availableVersions": [
-        "1.0.0"
-      ],
-      "status": 2,
-      "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/0fcba4be-a285-4f49-99d3-30076f5033fd_thumbnail.png"
-    }
-  ]
+  "assets": []
 }
