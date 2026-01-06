@@ -1,0 +1,24 @@
+{
+  "assetId": "eba219ed-e047-4327-8ba3-4d3373361a6e",
+  "version": "1.0.2",
+  "changelog": "fix",
+  "breakingChanges": false,
+  "previousVersion": "1.0.1",
+  "createdBy": "admin",
+  "createdAt": "2026-01-06T14:30:10.884255Z",
+  "status": 1,
+  "fileName": "PurpleCube_1_0_2.unitypackage",
+  "fileSize": 5752785,
+  "reviewedBy": null,
+  "reviewedAt": null,
+  "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/eba219ed-e047-4327-8ba3-4d3373361a6e_1_0_2_thumbnail.png",
+  "requiredDependencies": [
+    "Universal RP (URP)"
+  ],
+  "externalScriptDependencies": [],
+  "externalPackageDependencies": [
+    "Shaders"
+  ],
+  "setupInstructions": "purple",
+  "requiredUnityVersion": null
+}
