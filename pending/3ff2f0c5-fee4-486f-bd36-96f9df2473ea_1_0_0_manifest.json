@@ -1,0 +1,24 @@
+{
+  "assetId": "3ff2f0c5-fee4-486f-bd36-96f9df2473ea",
+  "version": "1.0.0",
+  "changelog": "",
+  "breakingChanges": false,
+  "previousVersion": null,
+  "createdBy": "admin",
+  "createdAt": "2026-01-06T06:52:35.9830391Z",
+  "status": 1,
+  "fileName": "baruh_1_0_0.unitypackage",
+  "fileSize": 7065970,
+  "reviewedBy": null,
+  "reviewedAt": null,
+  "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/3ff2f0c5-fee4-486f-bd36-96f9df2473ea_thumbnail.png",
+  "requiredDependencies": [
+    "Universal RP (URP)"
+  ],
+  "externalScriptDependencies": [],
+  "externalPackageDependencies": [
+    "Shaders"
+  ],
+  "setupInstructions": "",
+  "requiredUnityVersion": "6000.2.11f1"
+}
