@@ -28,6 +28,18 @@
       ],
       "status": 2,
       "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/bd49ca29-591d-4136-8015-ec36672f18d0_thumbnail.png"
+    },
+    {
+      "id": "fee98283-5e09-4f97-bd99-f556dc672525",
+      "name": "Green",
+      "description": "",
+      "tags": [],
+      "latestVersion": "1.0.0",
+      "availableVersions": [
+        "1.0.0"
+      ],
+      "status": 1,
+      "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/fee98283-5e09-4f97-bd99-f556dc672525_thumbnail.png"
     }
   ]
 }
