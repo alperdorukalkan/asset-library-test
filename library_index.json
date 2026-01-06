@@ -1,20 +1,6 @@
 {
   "assets": [
     {
-      "id": "fb235fef-2ac9-43a2-8dfd-9d19f60ca901",
-      "name": "rap1",
-      "description": "rap",
-      "tags": [
-        "tag"
-      ],
-      "latestVersion": "1.0.0",
-      "availableVersions": [
-        "1.0.0"
-      ],
-      "status": 2,
-      "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/fb235fef-2ac9-43a2-8dfd-9d19f60ca901_thumbnail.png"
-    },
-    {
       "id": "c42b83e8-6e91-43ed-83de-22f4390f40f6",
       "name": "rap1 1",
       "description": "",
