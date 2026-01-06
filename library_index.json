@@ -1,18 +1,6 @@
 {
   "assets": [
     {
-      "id": "7becf3d1-1626-4692-a51f-e3c526c5682b",
-      "name": "green_sphere",
-      "description": "green",
-      "tags": [
-        "green"
-      ],
-      "latestVersion": "1.0.0",
-      "availableVersions": [],
-      "status": 2,
-      "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/7becf3d1-1626-4692-a51f-e3c526c5682b_thumbnail.png"
-    },
-    {
       "id": "f571fec0-4d3b-4ae1-8bb1-0ee645ac0e62",
       "name": "greenplane",
       "description": "green",
