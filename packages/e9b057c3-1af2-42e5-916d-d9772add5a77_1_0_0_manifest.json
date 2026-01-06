@@ -1,0 +1,24 @@
+{
+  "assetId": "e9b057c3-1af2-42e5-916d-d9772add5a77",
+  "version": "1.0.0",
+  "changelog": "",
+  "breakingChanges": false,
+  "previousVersion": null,
+  "createdBy": "admin",
+  "createdAt": "2026-01-06T10:35:07.0688717Z",
+  "status": 2,
+  "fileName": "rap1_2_1_0_0.unitypackage",
+  "fileSize": 7065971,
+  "reviewedBy": "admin",
+  "reviewedAt": "2026-01-06T10:39:55.7218354Z",
+  "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/e9b057c3-1af2-42e5-916d-d9772add5a77_thumbnail.png",
+  "requiredDependencies": [
+    "Universal RP (URP)"
+  ],
+  "externalScriptDependencies": [],
+  "externalPackageDependencies": [
+    "Shaders"
+  ],
+  "setupInstructions": "",
+  "requiredUnityVersion": "6000.2.11f1"
+}
