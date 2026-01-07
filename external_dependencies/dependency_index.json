@@ -1,3 +1,18 @@
 {
-  "dependencies": []
+  "dependencies": [
+    {
+      "id": "55805977-c0e6-4c67-b060-650af07a8d4e",
+      "name": "test_pack",
+      "description": "packtest",
+      "latestVersion": "1.0.0",
+      "version": "1.0.0",
+      "availableVersions": [
+        "1.0.0"
+      ],
+      "fileName": "test_pack_1_0_0.unitypackage",
+      "fileSize": 12241,
+      "uploadedBy": "admin",
+      "uploadedAt": "2026-01-07T11:41:49.7840624Z"
+    }
+  ]
 }
