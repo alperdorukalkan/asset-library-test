@@ -1,18 +1,3 @@
 {
-  "dependencies": [
-    {
-      "id": "c5ee0f91-28db-45b6-acca-f4036c784cad",
-      "name": "Enviro3SkyandWeather",
-      "description": "Base Version",
-      "latestVersion": "1.0.0",
-      "version": "1.0.0",
-      "availableVersions": [
-        "1.0.0"
-      ],
-      "fileName": "Enviro3SkyandWeather_1_0_0.unitypackage",
-      "fileSize": 148020632,
-      "uploadedBy": "admin",
-      "uploadedAt": "2026-01-07T13:33:24.3648045Z"
-    }
-  ]
+  "dependencies": []
 }
