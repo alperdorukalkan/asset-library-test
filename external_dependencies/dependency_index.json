@@ -4,7 +4,9 @@
       "id": "66d92243-4807-4fbe-b3c0-94999c63abae",
       "name": "pack",
       "description": "script",
+      "latestVersion": "1.0.0",
       "version": "1.0.0",
+      "availableVersions": [],
       "fileName": "pack_1_0_0.unitypackage",
       "fileSize": 1559,
       "uploadedBy": "admin",
@@ -14,11 +16,15 @@
       "id": "77b6e773-ad67-4a26-89a6-ac42ca2c9243",
       "name": "DShadeURP",
       "description": "shader",
-      "version": "1.0.0",
-      "fileName": "DShadeURP_1_0_0.unitypackage",
-      "fileSize": 146939,
+      "latestVersion": "1.0.1",
+      "version": "1.0.1",
+      "availableVersions": [
+        "1.0.1"
+      ],
+      "fileName": "DShadeURP_1_0_1.unitypackage",
+      "fileSize": 158080,
       "uploadedBy": "admin",
-      "uploadedAt": "2026-01-05T13:47:25.9481523Z"
+      "uploadedAt": "2026-01-07T07:38:37.5808756Z"
     }
   ]
 }
