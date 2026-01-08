@@ -30,18 +30,6 @@
       ],
       "status": 2,
       "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/2273e4f2-f02c-4c39-afa7-89a25f8ba4b5_1_0_1_thumbnail.png"
-    },
-    {
-      "id": "aa95e4da-f0ac-4c23-b5e3-4ab7c632995b",
-      "name": "newenviroasset",
-      "description": "",
-      "tags": [],
-      "latestVersion": "1.0.5",
-      "availableVersions": [
-        "1.0.5"
-      ],
-      "status": 0,
-      "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/aa95e4da-f0ac-4c23-b5e3-4ab7c632995b_thumbnail.png"
     }
   ]
 }
