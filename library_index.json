@@ -42,6 +42,18 @@
       ],
       "status": 2,
       "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/beceec5c-9c59-4711-99ab-bd127299ff57_thumbnail.png"
+    },
+    {
+      "id": "c2ffc4a4-a296-4894-ab19-bef4b162160f",
+      "name": "assetenviro3base4",
+      "description": "",
+      "tags": [],
+      "latestVersion": "1.0.0",
+      "availableVersions": [
+        "1.0.0"
+      ],
+      "status": 1,
+      "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/c2ffc4a4-a296-4894-ab19-bef4b162160f_thumbnail.png"
     }
   ]
 }
