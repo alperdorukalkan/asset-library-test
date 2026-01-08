@@ -30,6 +30,18 @@
       ],
       "status": 2,
       "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/2273e4f2-f02c-4c39-afa7-89a25f8ba4b5_1_0_1_thumbnail.png"
+    },
+    {
+      "id": "beceec5c-9c59-4711-99ab-bd127299ff57",
+      "name": "packageTrial",
+      "description": "",
+      "tags": [],
+      "latestVersion": "1.0.8",
+      "availableVersions": [
+        "1.0.8"
+      ],
+      "status": 1,
+      "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/beceec5c-9c59-4711-99ab-bd127299ff57_thumbnail.png"
     }
   ]
 }
