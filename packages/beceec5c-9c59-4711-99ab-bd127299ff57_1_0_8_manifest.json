@@ -1,0 +1,20 @@
+{
+  "assetId": "beceec5c-9c59-4711-99ab-bd127299ff57",
+  "version": "1.0.8",
+  "changelog": "",
+  "breakingChanges": false,
+  "previousVersion": null,
+  "createdBy": "admin",
+  "createdAt": "2026-01-08T13:50:16.9298941Z",
+  "status": 2,
+  "fileName": "packageTrial_1_0_8.unitypackage",
+  "fileSize": 149181062,
+  "reviewedBy": "admin",
+  "reviewedAt": "2026-01-08T13:55:51.8648285Z",
+  "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/beceec5c-9c59-4711-99ab-bd127299ff57_thumbnail.png",
+  "requiredDependencies": [],
+  "externalScriptDependencies": [],
+  "externalPackageDependencies": [],
+  "setupInstructions": "",
+  "requiredUnityVersion": "2022.3.66f1"
+}
