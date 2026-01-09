@@ -1,0 +1,43 @@
+{
+  "assetId": "c8517bdb-a608-4d44-9f10-b621bf4488a6",
+  "version": "1.0.0",
+  "changelog": "",
+  "breakingChanges": false,
+  "previousVersion": null,
+  "createdBy": "admin",
+  "createdAt": "2026-01-09T12:10:15.0847158Z",
+  "status": 1,
+  "fileName": "lastTrial_1_0_0.unitypackage",
+  "fileSize": 24591,
+  "reviewedBy": null,
+  "reviewedAt": null,
+  "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/c8517bdb-a608-4d44-9f10-b621bf4488a6_thumbnail.png",
+  "requiredDependencies": [],
+  "externalScriptDependencies": [
+    "EnviroAuroraModule",
+    "EnviroSkyModule",
+    "EnviroVolumetricFogLight",
+    "EnviroEffectsModule",
+    "EnviroLightningModule",
+    "EnviroEnvironmentModule",
+    "EnviroManager",
+    "EnviroReflectionsModule",
+    "EnviroQuality",
+    "EnviroVolumetricCloudsModule",
+    "EnviroFlatCloudsModule",
+    "EnviroWeatherType",
+    "EnviroWeatherModule",
+    "Lightning",
+    "EnviroQualityModule",
+    "EnviroFogModule",
+    "EnviroAudioModule",
+    "EnviroConfiguration",
+    "EnviroTimeModule",
+    "EnviroLightingModule"
+  ],
+  "externalPackageDependencies": [
+    "Enviro3SkyandWeather"
+  ],
+  "setupInstructions": "",
+  "requiredUnityVersion": "2022.3.66f1"
+}
