@@ -42,6 +42,20 @@
       ],
       "status": 2,
       "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/beceec5c-9c59-4711-99ab-bd127299ff57_thumbnail.png"
+    },
+    {
+      "id": "c13f0445-ed23-496d-a11d-2a7368f7ae0f",
+      "name": "enviro3",
+      "description": "",
+      "tags": [
+        "enviro"
+      ],
+      "latestVersion": "1.0.0",
+      "availableVersions": [
+        "1.0.0"
+      ],
+      "status": 1,
+      "thumbnailUrl": "https://raw.githubusercontent.com/alperdorukalkan/asset-library-test/main/thumbnails/c13f0445-ed23-496d-a11d-2a7368f7ae0f_thumbnail.png"
     }
   ]
 }
